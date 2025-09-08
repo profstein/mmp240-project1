@@ -16,8 +16,38 @@ This repository contains the starter files for **Project 1**. Follow the instruc
 ---
 
 ## Step 2: Open in VS Code
-1. Clone your new repository to your computer.  
-2. Open the repository folder in **VS Code**.  
+
+1. On your computer, make sure you have a folder where you will keep all of your **MMP 240 projects**.  
+   - For example, create a folder called `MMP240` in your Documents folder.  
+
+2. In your browser, go to your new GitHub repository page.  
+   - Click the green **Code** button.  
+   - Make sure the Local tab is selected
+   - Make sure **HTTPS** is selected.  
+   - Copy the URL that looks like this:  
+     ```
+     https://github.com/your-username/your-repo-name.git
+     ```
+
+3. Open **VS Code**.  
+   - From the menu, choose **File > New Window** so you start fresh.  
+   - In the new window, click on **Clone Git Repository** (you may see this in the middle of the screen or in the Source Control view).  
+
+4. Paste in the URL you copied from GitHub and press **Enter**.  
+
+5. VS Code will ask you to choose a location to save the repository.  
+   - Navigate to your `MMP240` folder and select it.  
+   - VS Code will create a new subfolder inside it with the same name as your repository.  
+
+6. When it finishes, VS Code will ask if you want to **Open the repository**.  
+   - Click **Open**.  
+
+7. VS Code may also ask if you **trust the authors** of the repository.  
+   - Click **Yes, I trust the authors**.  
+
+8. If you still see the **Welcome window**, you can close it so you only see your project files in the Explorer sidebar.  
+
+You should now see your repository files (`index.html`, `style.css`, etc.) ready to edit in VS Code.  
 
 ---
 
