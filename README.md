@@ -1,2 +1,80 @@
-# mmp240-project1
+# Project 1 – Website Basics
+
 Template for Project 1 in MMP 240
+
+This repository contains the starter files for **Project 1**. Follow the instructions below to set up and build your project.
+
+---
+
+## Step 1: Create Your Repository
+1. Log in to **GitHub**.  
+2. Go to this repository and click the **“Use this template”** button.  
+3. Give your new repository a name (for example: `project1-website-basics`).  
+   - Make sure you are creating it **under your GitHub account**.  
+4. Once created, check the top left corner to confirm that the repo name has **your GitHub username** before the repository name.  
+
+---
+
+## Step 2: Open in VS Code
+1. Clone your new repository to your computer.  
+2. Open the repository folder in **VS Code**.  
+
+---
+
+## Step 3: Create `html-guide.html`
+1. In VS Code, create a new file named **`html-guide.html`**.  
+2. Type `!` and press **Tab** to use **Emmet** and insert the basic HTML structure.  
+3. Copy the **header** and **footer** from `index.html` into your new file.  
+4. Open the provided text file **`Project1-HTML-Quick-Guide.txt`**.  
+5. Paste the content into the `<main>` section of your new page.  
+6. Add proper **HTML markup** to the content:
+   - Use `<h1>` for the page title
+   - `<h2>` for sections
+   - `<p>` for paragraphs
+   - `<ul>/<ol>` with `<li>` for lists
+   - `<a>` for links  
+7. Preview your page in VS Code (use **Open with Live Server** if installed, or open the file in your browser).  
+8. Check the editor for any red underlines or warnings that may indicate syntax errors.  
+
+---
+
+## Step 4: Create `css-guide.html`
+1. Repeat the same process for **`css-guide.html`**.  
+2. Paste in the content from **`Project1-CSS-Quick-Guide.txt`**.  
+3. Add HTML markup to structure the content properly.  
+
+---
+
+## Step 5: Style with `style.css`
+1. You already have a **`style.css`** file in the repo.  
+2. In the `<head>` of each page (`index.html`, `html-guide.html`, `css-guide.html`), confirm there is a line linking the stylesheet:  
+   `<link rel="stylesheet" href="style.css">`
+3. In style.css, start with the primary styles inside the html selector that is already there.
+   - Set the base font-family, font-size, line-height, color.
+   - In Figma, copy the text and color styles you created, then paste their values into your CSS as appropriate.
+4.	Add styles for headings (h1, h2), paragraphs (p), and lists (ul, ol, li).
+5.	Use pseudo-classes (a:link, a:hover, a:visited) to style links.
+
+⸻
+
+## Step 6: Push Your Work to GitHub
+	1.	In VS Code, save all your changes.
+	2.	Use Source Control to commit your changes with a message (e.g., Finished HTML Guide and CSS).
+	3.	Push your changes to GitHub.
+	4.	Go to your GitHub repository online and confirm your files and changes are there.
+
+⸻
+
+## Step 7: Publish with GitHub Pages
+	1.	In your GitHub repo on the GitHub site, Click on Settings
+ 2. In the Settings, click on Pages in the navigation on the left.
+	3.	Under **Build and deployment**, select Deploy from a branch (may be selected already).
+	4.	Under **Branch**, Select the main branch and / (root) folder.
+	5.	Click Save.
+	6.	After a minute, refresh the page to see your published site link.
+
+⸻
+
+✅ You now have a multi-page website with consistent navigation, styled typography, and published on the web!
+
+
