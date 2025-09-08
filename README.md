@@ -113,12 +113,12 @@ You should now see your repository files (`index.html`, `style.css`, etc.) ready
 ⸻
 
 ## Step 7: Publish with GitHub Pages
-	1.	In your GitHub repo on the GitHub site, Click on Settings
- 2. In the Settings, click on Pages in the navigation on the left.
-	3.	Under **Build and deployment**, select Deploy from a branch (may be selected already).
-	4.	Under **Branch**, Select the main branch and / (root) folder.
-	5.	Click Save.
-	6.	After a minute, refresh the page to see your published site link.
+1.	In your GitHub repo on the GitHub site, Click on Settings
+2.  In the Settings, click on Pages in the navigation on the left.
+3.	Under **Build and deployment**, select Deploy from a branch (may be selected already).
+4.	Under **Branch**, Select the main branch and / (root) folder.
+5.	Click Save.
+6.	After a minute, refresh the page to see your published site link.
 
 ⸻
 
