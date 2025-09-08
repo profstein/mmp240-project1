@@ -103,9 +103,12 @@ You should now see your repository files (`index.html`, `style.css`, etc.) ready
 
 ## Step 6: Push Your Work to GitHub
 	1.	In VS Code, save all your changes.
-	2.	Use Source Control to commit your changes with a message (e.g., Finished HTML Guide and CSS).
-	3.	Push your changes to GitHub.
-	4.	Go to your GitHub repository online and confirm your files and changes are there.
+	2.	Open the **Source Control** tab (branch icon).  
+	3. Under **Changes**, type a short message about what you changed (e.g., *“Added new pages on HTMl and CSS and updates text styles”*).  
+	4. Click the **Commit** button.  
+   		- If VS Code says *“There are no staged changes to commit”*, click **Yes** to stage all changes.  
+	5. After committing, click the **Sync Changes** button to upload your changes to GitHub.  
+	6.	Go to your GitHub repository online and confirm your files and changes are there.
 
 ⸻
 
