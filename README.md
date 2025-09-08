@@ -54,17 +54,31 @@ You should now see your repository files (`index.html`, `style.css`, etc.) ready
 ## Step 3: Create `html-guide.html`
 1. In VS Code, create a new file named **`html-guide.html`**.  
 2. Type `!` and press **Tab** to use **Emmet** and insert the basic HTML structure.  
-3. Copy the **header** and **footer** from `index.html` into your new file.  
-4. Open the provided text file **`Project1-HTML-Quick-Guide.txt`**.  
-5. Paste the content into the `<main>` section of your new page.  
-6. Add proper **HTML markup** to the content:
+3. Copy the **header** and **footer** from `index.html` into your new file.
+4. Create a main element between the header and footer elements like below
+   
+	&lt;header&gt;
+      ... existing header content here
+    &lt;/header&gt;
+ 
+    &lt;main&gt;
+      ... you will paste content here
+    &lt;/main&gt;
+ 
+    &lt;footer&gt;
+      ... exsting footer content here
+    &lt;/footer&gt;
+   
+6. Open the provided text file **`Project1-HTML-Quick-Guide.txt`**.  
+7. Paste the content into the `<main>` section of your new page.  
+8. Add proper **HTML markup** to the content:
    - Use `<h1>` for the page title
    - `<h2>` for sections
    - `<p>` for paragraphs
    - `<ul>/<ol>` with `<li>` for lists
    - `<a>` for links  
-7. Preview your page in VS Code (use **Open with Live Server** if installed, or open the file in your browser).  
-8. Check the editor for any red underlines or warnings that may indicate syntax errors.  
+9. Preview your page in VS Code (use **Open with Live Server** if installed, or open the file in your browser).  
+10. Check the editor for any red underlines or warnings that may indicate syntax errors.  
 
 ---
 
