@@ -1,8 +1,6 @@
 HTML Quick Guide
 
-
 HTML (HyperText Markup Language) is the language that creates the web page, points to all of the other files needed to make the page.
-
 
 
  What HTML Does
@@ -11,7 +9,6 @@ HTML (HyperText Markup Language) is the language that creates the web page, poin
  Marks the content on the page: headings, paragraphs, lists, media and more
  Tells the browser where to find other files needed: CSS, JavaScript, image, audio, video
  Allows you to create links to other pages or websites
-
 
 
  Key Concepts
@@ -26,7 +23,6 @@ HTML (HyperText Markup Language) is the language that creates the web page, poin
  Semantic HTML means that you put content in the right structural area and match the element you use to the content (example heading in h1 or list in ul ). 
 
 
-
  Basic Types of Elements
 
  Required Elements (must include): !DOCTYPE, html, head, body
@@ -36,9 +32,9 @@ HTML (HyperText Markup Language) is the language that creates the web page, poin
  Elements to include CSS and JS files: link (CSS), script (JS)
 
 
-
 Learn More
- Good references for later:  
+
+These sites are good references for later:  
 
  MDN: HTML basics https://developer.mozilla.org/enUS/docs/Learn/Gettingstartedwiththeweb/HTMLbasics  
  W3Schools: HTML Examples  https://www.w3schools.com/html/html_examples.asp
