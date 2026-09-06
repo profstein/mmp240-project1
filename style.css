@@ -11,20 +11,20 @@ html{
 }
 
 /* General heading styles */
+/*set font styles for all of your headings, for example font-weight, line-height, font-family */
 h1, h2, h3, h4, h5, h6{
-  set font styles for all of your headings, for example font-weight, line-height, font-family
+  
 }
 
 /* Specific element text styles */
 h1{
-  /*   this is the page title */
+  /*   this is the page title you may want to set the font-size and weight instead of relying on the default. */
 }
 
 h2{
-  
+  /* secondary heading, also set font-size and weight (and others you may want)
 }
 
 p{
-
   margin-bottom: 1rem; /* optional but usually good to have a space between paragraphs */
 }
