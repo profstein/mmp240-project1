@@ -12,8 +12,6 @@ How CSS Can Style Text and Color
  Controls how links look in different states (hover, visited, active)
 
 
-
-
 Terms
 
  Selector: the part of a CSS ruleset that defines which HTML elements the style should be applied to.
@@ -21,7 +19,6 @@ Terms
  Value: the particular specification for a property. Example: color:red (red is the value). 
  Units: these specify the type of value. Example: fontsize: 2rem; (rem is the unit). 
  Box Model: It is the fundamental CSS layout model that treats every HTML element as a box with four layers.
-
 
 
 Basic Properties for Text and Color Styling
@@ -35,9 +32,9 @@ Basic Properties for Text and Color Styling
  padding: adds space between the content of an element and the border of the element
 
 
-
 Learn More
- Good references for later:  
+
+ The following sites are good references for later:  
 
  MDN: CSS basics — https://developer.mozilla.org/enUS/docs/Learn/Gettingstartedwiththeweb/CSSbasics  
  MDN: Basic Selectors https://developer.mozilla.org/enUS/docs/Learnwebdevelopment/Core/Stylingbasics/Basicselectors
