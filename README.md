@@ -77,7 +77,7 @@ You should now see your repository files (`index.html`, `style.css`, etc.) ready
    - `<p>` for paragraphs
    - `<ul>/<ol>` with `<li>` for lists
    - `<a>` for links  
-9. Preview your page in VS Code (use **Open with Live Server** if installed, or open the file in your browser).  
+9. Preview your page in VS Code (use **Open with Live Previewr** if installed, or open the file in your browser).  
 10. Check the editor for any red underlines or warnings that may indicate syntax errors.  
 
 ---
@@ -95,16 +95,18 @@ You should now see your repository files (`index.html`, `style.css`, etc.) ready
    `<link rel="stylesheet" href="style.css">`
 3. In style.css, start with the primary styles inside the html selector that is already there.
    - Set the base font-family, font-size, line-height, color.
-   - In Figma, copy the text and color styles you created, then paste their values into your CSS as appropriate.
-4.	Add styles for headings (h1, h2), paragraphs (p), and lists (ul, ol, li).
-5.	Use pseudo-classes (a:link, a:hover, a:visited) to style links.
+   	  - For those who used the project styles form, click on View as CSS to see the styles which you can copy and paste.
+   - Add styles for headings (h1, h2), paragraphs (p), and lists (ul, ol, li).
+   	  - Again, you can use CSS from the projects styles form's View as CSS
+   - Use pseudo-classes (a:link, a:hover, a:visited) to style links.
+      - Again, you can use CSS from the projects styles form's View as CSS
 
 ⸻
 
 ## Step 6: Push Your Work to GitHub
 1.	In VS Code, save all your changes.
 2.	Open the **Source Control** tab (branch icon).  
-3. Under **Changes**, type a short message about what you changed (e.g., *“Added new pages on HTMl and CSS and updates text styles”*).  
+3. Under **Changes**, type a short message about what you changed (e.g., *“Added new pages about HTMl and CSS and updated text styles”*).  
 4. Click the **Commit** button.  
 	- If VS Code says *“There are no staged changes to commit”*, click **Yes** to stage all changes.  
 5. After committing, click the **Sync Changes** button to upload your changes to GitHub.  
